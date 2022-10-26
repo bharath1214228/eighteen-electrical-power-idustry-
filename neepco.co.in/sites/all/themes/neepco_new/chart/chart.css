@@ -1,0 +1,32 @@
+
+.canvasjs-chart-credit {
+   display: none;
+}
+.g_st_note_pos{
+	margin-top:26px;
+}
+.graph_note_pos{
+	position:absolute;
+	background-color:white;	
+	margin-top:-16px;
+	padding-left: 15px;
+}
+.g_st_note_pos2{
+	margin-top:-41px;
+}
+.graph_note_pos2{
+	position:absolute;
+	background-color:white;	
+	margin-top:-66px;
+	padding-left: 15px;
+}
+
+.g_st_note_pos3{
+	margin-top:47px;
+}
+.graph_note_pos3{
+	position:absolute;
+	background-color:white;	
+	margin-top:23px;
+	padding-left: 15px;
+}

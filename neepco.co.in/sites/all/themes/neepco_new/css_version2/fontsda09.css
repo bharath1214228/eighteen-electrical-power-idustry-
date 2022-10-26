@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url('../fonts/OpenSans-Bold.html');
+	src: url('../fonts/OpenSans-Boldd41d.html?#iefix') format('embedded-opentype'),
+		url('../fonts/OpenSans-Bold-2.html') format('woff'),
+		url('../fonts/OpenSans-Bold-3.html') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('../fonts/OpenSans-Light.html');
+	src: url('../fonts/OpenSans-Lightd41d.html?#iefix') format('embedded-opentype'),
+		url('../fonts/OpenSans-Light-2.html') format('woff'),
+		url('../fonts/OpenSans-Light-3.html') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('../fonts/OpenSans-Semibold.html');
+	src: url('../fonts/OpenSans-Semiboldd41d.html?#iefix') format('embedded-opentype'),
+		url('../fonts/OpenSans-Semibold-2.html') format('woff'),
+		url('../fonts/OpenSans-Semibold-3.html') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('../fonts/OpenSans.html');
+	src: url('../fonts/OpenSansd41d.html?#iefix') format('embedded-opentype'),
+		url('../fonts/OpenSans-2.html') format('woff'),
+		url('../fonts/OpenSans-3.html') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

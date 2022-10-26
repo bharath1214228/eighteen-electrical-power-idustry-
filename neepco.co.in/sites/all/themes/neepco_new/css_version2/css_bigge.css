@@ -1,0 +1,22 @@
+body, .top_link, .latest_news .ticker p, .award_cont li {font-size:15px;}
+.vc-mm-menu-h ul.vc-mm-menu li.vc-menu-item a.nav-link{font-size:16px}
+.site_ab_block .site_tit{    font-size: 19px;}
+.resp-tabs-list li{    font-size: 16px;}
+.font_link ul li a{    font-size: 14px;}
+.font_link ul li a.big_text{font-size:15px;}
+.font_link ul li a.sm_text{font-size:12px;}
+.vc-mm-menu-h ul.vc-mm-menu li.vc-menu-item.hover>div.sub-menu, .vc-mm-menu-h ul.vc-mm-menu li.vc-menu-item:hover>div.sub-menu{top: 48px;}
+.tit_1{font-size: 24px;}
+.tit_3{font-size: 20px;}
+.tit_4{font-size: 18px}
+.custom-style.table>thead>tr>td, .custom-style.table>tbody>tr>td, .custom-style.table>tfoot>tr>td { font-size: 15px; }
+@media only screen and (max-width: 1110px){
+ul.hd_nav > li > a {    font-size: 13px;}	
+}
+@media only screen and (max-width: 1075px) {
+
+.vc-mm-menu-h ul.vc-mm-menu li.vc-menu-item a.nav-link {    font-size: 15px;}
+}
+@media only screen and (max-width: 1060px){
+
+}
